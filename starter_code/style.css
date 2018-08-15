@@ -1,6 +1,8 @@
 body {
   padding: 0;
   text-align: center;
+
+ 
 }
 
 .game-intro {
@@ -35,4 +37,10 @@ body button {
 #game-board {
     float: left;
     padding: 20px 0px;
+    background-image: url("./images/street.jpg");
+    background-size: 600px 800px;
+    background-repeat: no-repeat;
+    height: 800px;
+    width: 600px;
+
 }
